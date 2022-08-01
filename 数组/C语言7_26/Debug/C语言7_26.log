@@ -1,0 +1,3 @@
+﻿  变量.c
+数组7_26.obj : error LNK2005: _main 已经在 变量.obj 中定义
+D:\Users\ahuang\Desktop\mygithub\C_code\C语言7_26\Debug\C语言7_26.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

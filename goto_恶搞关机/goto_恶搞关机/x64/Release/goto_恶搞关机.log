@@ -1,0 +1,6 @@
+﻿  test.c
+D:\Users\ahuang\Desktop\github\C语言\code_C\goto_恶搞关机\goto_恶搞关机\test.c(15,8): warning C4013: “printf”未定义；假设外部返回 int
+D:\Users\ahuang\Desktop\github\C语言\code_C\goto_恶搞关机\goto_恶搞关机\test.c(16,7): warning C4013: “scanf”未定义；假设外部返回 int
+test.obj : error LNK2001: 无法解析的外部符号 printf
+test.obj : error LNK2001: 无法解析的外部符号 scanf
+D:\Users\ahuang\Desktop\github\C语言\code_C\goto_恶搞关机\x64\Release\goto_恶搞关机.exe : fatal error LNK1120: 2 个无法解析的外部命令

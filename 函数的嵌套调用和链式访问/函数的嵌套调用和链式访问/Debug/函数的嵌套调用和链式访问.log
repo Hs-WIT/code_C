@@ -1,0 +1,5 @@
+﻿  Add.c
+  test.c
+  正在生成代码...
+D:\Users\ahuang\Desktop\github\C语言\code_C\函数的嵌套调用和链式访问\函数的嵌套调用和链式访问\test.c(13): warning C4716: “add”: 必须返回一个值
+  函数的嵌套调用和链式访问.vcxproj -> D:\Users\ahuang\Desktop\github\C语言\code_C\函数的嵌套调用和链式访问\Debug\函数的嵌套调用和链式访问.exe

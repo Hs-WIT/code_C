@@ -1,0 +1,4 @@
+﻿  test.c
+D:\Users\ahuang\Desktop\gitee\bite_-c\C\循环练习\循环练习\test.c(66,14): warning C4474: scanf: 格式字符串中传递的参数太多
+D:\Users\ahuang\Desktop\gitee\bite_-c\C\循环练习\循环练习\test.c(66,14): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  循环练习.vcxproj -> D:\Users\ahuang\Desktop\gitee\bite_-c\C\循环练习\Debug\循环练习.exe

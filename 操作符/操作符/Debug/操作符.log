@@ -1,0 +1,5 @@
+﻿  操作符.c
+D:\Users\ahuang\Desktop\gitee\bite_-c\C\操作符\操作符\操作符.c(14,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\Users\ahuang\Desktop\gitee\bite_-c\C\操作符\操作符\操作符.c(14,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\Users\ahuang\Desktop\gitee\bite_-c\C\操作符\操作符\操作符.c(14,9): message : 缺失的可变参数 1 为格式字符串“%d”所需
+  操作符.vcxproj -> D:\Users\ahuang\Desktop\gitee\bite_-c\C\操作符\Debug\操作符.exe
